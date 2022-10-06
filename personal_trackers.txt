@@ -1,0 +1,5 @@
+udp://tracker.opentrackr.org:1337
+
+udp://tracker.tiny-vps.com:6969
+
+udp://exodus.desync.com:6969
